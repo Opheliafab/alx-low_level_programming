@@ -6,7 +6,7 @@
  */
 int print_sign(int n)
 {
-	if (n :set > 0)
+	if (n > 0)
 		{
 		_putchar('+');
 		return (1);
